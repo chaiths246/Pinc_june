@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#673fb4</color>
+    <color name="colorPrimaryDark">#673fb4</color>
+    <color name="colorAccent">#a4a4b3</color>
+    <color name="paleGrey">#f5f6f8</color>//rgb 245 246 248
+    <color name="whiteTwo">#ffffff</color>//255 255 255
+    <color name="charcoalGrey">#333241</color>//51 50 65
+    <color name="white">#f3f3f3</color>//243 243 243
+    <color name="white18">#f3f3f3</color>//rgba 243 243 243 0.18
+    <color name="silver">#e4e6e9</color>//228 230 233
+    <color name="silverTwo">#c7c7d2</color>//199 199 210
+    <color name="blueyPurple">#673fb4</color>//103 63 180
+    <color name="whiteThree">#d8d8d8</color>//216 216 216
+    <color name="peach">#fba67b</color>//251 166 123
+    <color name="coolGrey">#a4a4b3</color>//164 164 179
+    <color name="purpley">#956ce4</color>//149 108 228
+
+
+</resources>
